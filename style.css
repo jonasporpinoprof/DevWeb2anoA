@@ -1,8 +1,11 @@
-h3{  <style>
-    body{
-        background-color: black;
-        color: white;
-    }
-</style>
-    color: pink;
+h2{
+    color: aqua;
+}
+
+.menu{
+    display: inline-block; /* deixa lado a lado */
+    padding: 10px 20px; /*  */
+}
+.menu:houver{
+    
 }
