@@ -1,17 +1,2 @@
-*{
-  background-color: darkolivegreen;
-  color: white;  
-}
-h2{
-    color: aqua;
-}
-
-.menu{
-    background-color: rgb(3, 162, 162);
-    display: inline-block; /* deixa lado a lado */
-    padding: 10px 20px; /*  */
-}
-.menu:houver{
-    background-color: rgb(2, 112, 112);
-
-}
+a{text-decoration: none;}
+.menu{list-style-type: none;}
